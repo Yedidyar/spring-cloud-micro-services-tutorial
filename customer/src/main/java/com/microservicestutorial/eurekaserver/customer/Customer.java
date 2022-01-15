@@ -1,4 +1,4 @@
-package com.microservicestutorial.customer;
+package com.microservicestutorial.eurekaserver.customer;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

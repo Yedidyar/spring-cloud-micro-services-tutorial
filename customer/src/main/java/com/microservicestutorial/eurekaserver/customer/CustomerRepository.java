@@ -1,4 +1,4 @@
-package com.microservicestutorial.customer;
+package com.microservicestutorial.eurekaserver.customer;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

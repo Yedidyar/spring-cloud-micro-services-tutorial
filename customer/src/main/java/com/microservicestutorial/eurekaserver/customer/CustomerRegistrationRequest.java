@@ -1,4 +1,4 @@
-package com.microservicestutorial.customer;
+package com.microservicestutorial.eurekaserver.customer;
 
 public record CustomerRegistrationRequest(String lastName,
                                           String firstName,
